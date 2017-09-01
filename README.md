@@ -25,8 +25,6 @@ Note: Psuedocode is completed in near perfect Java.
 
 - Gaussian Blur Implementation
 
-- Console Input
-
 ### To Current TCD CS First Year Students
 
 Please avoid copying any of this work, you are only cheating yourself by not completing the assignments on your own.
